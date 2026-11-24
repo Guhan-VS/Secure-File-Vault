@@ -57,6 +57,10 @@ Secure-File-Vault/
 ├── requirements.txt
 └── .gitignore
 ```
+## System Architecture
+
+The following diagram illustrates the major components and data flow
+of Secure File Vault.
 ![Project Architecture Diagram](image.png)
 ## Installation
 
