@@ -57,7 +57,7 @@ Secure-File-Vault/
 ├── requirements.txt
 └── .gitignore
 ```
-
+![Project Architecture Diagram](image.png)
 ## Installation
 
 ### 1. Clone the repository
